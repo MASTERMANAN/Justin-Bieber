@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+}
+ul{
+    font-size: larger;
+}
+body{
+    background-color:#dcdceb;
+}
+h2{
+    color:rgb(9, 185, 255);
+}
+b{
+    font: italic small-caps bold 16px/2 cursive;
+}
